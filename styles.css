@@ -1,0 +1,21 @@
+#outer {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(235, 232, 189);
+}
+
+#inner-1 {
+    width: 50vw;
+    height: 50vh;
+    background-color: rgb(36, 124, 201);
+}
+
+#inner-2 {
+    width: 50vw;
+    height: 50vh;
+    background-color: rgb(36, 201, 85);
+}
+
+body {
+    margin: 0;
+}
